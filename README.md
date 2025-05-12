@@ -11,6 +11,13 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 🤖 [Android](https://www.mediafire.com/file/i99zb2e7goqf7q3/2.1_GDPS_Android.apk/file)\
 🍎 MacOS/IOS: *Coming soon...*
 
+# Others
+🧪 Project Radium: *Coming soon...*\
+💻 Challenge List Open Source Code (Help me manage this as i rarely contribute to this anymore): https://github.com/JaharvisXD/2.1-GDPS-Challenge-List \
+🎥 YouTube: https://www.youtube.com/@2p1GDPS/ \
+🏠 GDPSHub: https://gdpshub.com/gdps/1898 \
+👥 Discord: https://discord.com/invite/N8MX2mZKCF
+
 # Credits
 1.9 GDPS: Special Thanks and Discord button\
 MathieuAR: GDPSFH\
