@@ -34,6 +34,6 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 MathieuAR: GDPSFH\
 MegaSa1nt: Dashboard system\
 Janix: idk hes a weirdo\
-Starmor: GDPS Website\
+Starmor: [GDPS Website](https://github.com/dj-starmor/GDPS-Website)\
 All mod makers that made all the mods in [mods folder](https://github.com/JaharvisXD/2.1-GDPS/tree/main/mods)\
 RobTop: Making this awesome game!
