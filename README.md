@@ -30,9 +30,9 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 - Intergrated Demon List
 
 # Credits
-1.9 GDPS: Special Thanks and Discord button\
-MathieuAR: GDPSFH\
-MegaSa1nt: Dashboard system\
+1.9 GDPS: [Special Thanks and Discord button](https://github.com/qimiko/gdps-android-public)\
+MathieuAR: [GDPSFH](https://discord.gg/TyyqQGuWb8)\
+MegaSa1nt: [Dashboard system](https://github.com/MegaSa1nt/GMDprivateServer)\
 Janix: idk hes a weirdo\
 Starmor: [GDPS Website](https://github.com/dj-starmor/GDPS-Website)\
 All mod makers that made all the mods in [mods folder](https://github.com/JaharvisXD/2.1-GDPS/tree/main/mods)\
