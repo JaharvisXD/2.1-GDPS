@@ -24,4 +24,5 @@ MathieuAR: GDPSFH\
 MegaSa1nt: Dashboard system\
 Janix: idk hes a weirdo\
 Starmor: GDPS Website\
+All mod makers that made all the mods in mods folder\
 RobTop: Making this awesome game!
