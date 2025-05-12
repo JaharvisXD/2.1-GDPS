@@ -2,8 +2,8 @@
 A Geometry Dash Private Server that is only based on the most famous, old and played version, Update 2.1!
 
 # Websites
-🌐 Main: https://two1gdps.ps.fhgdps.com/\
-😈 Demon List: https://two1gdpsdl.pages.dev/\
+🌐 Main: https://two1gdps.ps.fhgdps.com/ \
+😈 Demon List: https://two1gdpsdl.pages.dev/ \
 🛠️ Dashboard and tools: https://two1gdps.ps.fhgdps.com/dashboard/
 
 # Downloads
