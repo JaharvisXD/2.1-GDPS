@@ -20,6 +20,13 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 🏠 GDPSHub: https://gdpshub.com/gdps/1898 \
 👥 Discord: https://discord.com/invite/N8MX2mZKCF
 
+# Upcoming and planned projects
+- GDPS Launcher for Windows\
+- MacOS/IOS Support\
+- Redesigned website\
+- Official Safe Hacks Mod Menu\
+- Intergrated Demon List
+
 # Credits
 1.9 GDPS: Special Thanks and Discord button\
 MathieuAR: GDPSFH\
