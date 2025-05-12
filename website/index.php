@@ -37,6 +37,8 @@ include 'config.php';
             <a href="<?php echo $levelreupload; ?>"><img src="files/reupload.png" width="130" hspace="1"></a>
             <a href="<?php echo $browser; ?>"><img src="files/browser.png" width="130" hspace="1"></a>
             <a href="<?php echo $dashboard; ?>"><img src="files/dashboard.png" width="130" hspace="1"></a>
+            <a href="<?php echo $challengelist; ?>"><img src="files/challengelist.png" width="130" hspace="1"></a>
+ <a href="<?php echo $demonlist; ?>"><img src="files/demonlist.png" width="130" hspace="1"></a>
             <a href="<?php echo $android; ?>"><img src="files/android.png" width="130" hspace="1"></a>
             <a href="<?php echo $windows; ?>"><img src="files/windows.png" width="130" hspace="1"></a>
             <!-- Add buttons below -->
@@ -46,8 +48,9 @@ include 'config.php';
 
         <div>
             <!-- Lower buttons -->
-            <a href="<?php echo $challengelist; ?>"><img src="files/challengelist.png" width="130" hspace="1"></a>
- <a href="<?php echo $demonlist; ?>"><img src="files/demonlist.png" width="130" hspace="1"></a>
+            <a href="<?php echo $kofi; ?>"><img src="files/kofi.png" width="130" hspace="1"></a>
+            <a href="<?php echo $github; ?>"><img src="files/github.png" width="130" hspace="1"></a>
+ <a href="<?php echo $twitter; ?>"><img src="files/twitter.png" width="130" hspace="1"></a>
             <a href="<?php echo $youtube; ?>" target="_blank"><img src="files/youtube.png" width="130"
                     hspace="1"></a>
             <a href="<?php echo $gdpshub; ?>"><img src="files/gdpshub.png" width="130" hspace="1"></a>
