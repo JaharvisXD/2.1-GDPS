@@ -19,7 +19,8 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 💻 Challenge List Open Source Code (Help me manage this as i rarely contribute to this anymore): https://github.com/JaharvisXD/2.1-GDPS-Challenge-List \
 🎥 YouTube: https://www.youtube.com/@2p1GDPS/ \
 🏠 GDPSHub: https://gdpshub.com/gdps/1898 \
-👥 Discord: https://discord.com/invite/N8MX2mZKCF
+👥 Discord: https://discord.com/invite/N8MX2mZKCF \
+💌 Kofi (Support Us): https://ko-fi.com/2p1gdps
 
 # Upcoming and planned projects
 - GDPS Launcher for Windows
