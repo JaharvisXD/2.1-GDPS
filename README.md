@@ -21,10 +21,10 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 👥 Discord: https://discord.com/invite/N8MX2mZKCF
 
 # Upcoming and planned projects
-- GDPS Launcher for Windows\
-- MacOS/IOS Support\
-- Redesigned website\
-- Official Safe Hacks Mod Menu\
+- GDPS Launcher for Windows
+- MacOS/IOS Support
+- Redesigned website
+- Official Safe Hacks Mod Menu
 - Intergrated Demon List
 
 # Credits
