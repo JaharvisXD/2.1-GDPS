@@ -1,4 +1,4 @@
-# 2.1 GDPS (REPO IN THE WORKS)
+# 2.1 GDPS
 A Geometry Dash Private Server that is only based on the most famous, old and played version, Update 2.1!
 
 ![image Alt](https://github.com/JaharvisXD/2.1-GDPS/blob/main/image.png?raw=true)
