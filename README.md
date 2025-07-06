@@ -24,6 +24,7 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 💌 Kofi (Support Us): https://ko-fi.com/2p1gdps
 
 # Upcoming and planned projects
+- Custom Main Levels
 - GDPS Launcher for Windows
 - MacOS/IOS Support
 - Redesigned website
