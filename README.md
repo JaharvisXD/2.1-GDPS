@@ -1,4 +1,5 @@
-# 2.1 GDPS
+![image Alt](https://github.com/JaharvisXD/2.1-GDPS/blob/main/gdpslogo.png)
+
 A Geometry Dash Private Server that is only based on the most famous, old and played version, Update 2.1!
 ### The Best 2.1 GDPS of 2024
 
