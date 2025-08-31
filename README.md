@@ -16,7 +16,6 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 🍎 MacOS/IOS: *Coming soon...*
 
 # Others
-🧪 Project Radium: *Coming soon...*\
 💻 Challenge List Open Source Code (Help me manage this as i rarely contribute to this anymore): https://github.com/JaharvisXD/2.1-GDPS-Challenge-List \
 🎥 YouTube: https://www.youtube.com/@2p1GDPS/ \
 🏠 GDPSHub: https://gdpshub.com/gdps/1898 \
