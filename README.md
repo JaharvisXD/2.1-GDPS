@@ -11,7 +11,7 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 🛠️ Dashboard and tools: https://two1gdps.ps.fhgdps.com/dashboard/
 
 # Downloads
-🪟 [Windows](https://www.mediafire.com/file/pc2apvao4bx2qic/2.1_GDPS_Windows.zip/file) (Use Wine if youre a linux user)\
+🪟 [Windows](https://www.mediafire.com/file/8orjib06kfk6ci6/2.1_GDPS_Installer.exe/file) (Use Wine if youre a linux user)\
 🤖 [Android](https://www.mediafire.com/file/i99zb2e7goqf7q3/2.1_GDPS_Android.apk/file)\
 🍎 MacOS/IOS: *Coming soon...*
 
@@ -24,7 +24,6 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 
 # Upcoming and planned projects
 - Custom Main Levels
-- GDPS Launcher for Windows
 - MacOS/IOS Support
 - Redesigned website
 - Official Safe Hacks Mod Menu
