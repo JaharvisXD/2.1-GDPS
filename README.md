@@ -26,7 +26,6 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 # Upcoming and planned projects
 - Custom Main Levels
 - MacOS/IOS Support
-- Redesigned website
 - Official Safe Hacks Mod Menu
 - Intergrated Demon List
 
