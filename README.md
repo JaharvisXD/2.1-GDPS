@@ -34,5 +34,4 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 MathieuAR: [GDPSFH](https://discord.gg/TyyqQGuWb8)\
 MegaSa1nt: [GDPS core and dashboard system](https://github.com/MegaSa1nt/GMDprivateServer)\
 All mod makers that made all the mods in [mods folder](https://github.com/JaharvisXD/2.1-GDPS/tree/main/mods)\
-Janix: idk hes a weirdo\
-RobTop: Making this awesome game!
+RobTop: Making this [awesome game!](https://store.steampowered.com/app/322170/Geometry_Dash)
