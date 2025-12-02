@@ -32,8 +32,7 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 # Credits
 1.9 GDPS: [Special Thanks and Discord button](https://github.com/qimiko/gdps-android-public)\
 MathieuAR: [GDPSFH](https://discord.gg/TyyqQGuWb8)\
-MegaSa1nt: [Dashboard system](https://github.com/MegaSa1nt/GMDprivateServer)\
-Starmor: [GDPS Website](https://github.com/dj-starmor/GDPS-Website)\
+MegaSa1nt: [GDPS core and dashboard system](https://github.com/MegaSa1nt/GMDprivateServer)\
 All mod makers that made all the mods in [mods folder](https://github.com/JaharvisXD/2.1-GDPS/tree/main/mods)\
 Janix: idk hes a weirdo\
 RobTop: Making this awesome game!
