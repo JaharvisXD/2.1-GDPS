@@ -27,7 +27,6 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 - Custom Main Levels
 - MacOS/IOS Support
 - Official Safe Hacks Mod Menu
-- Intergrated Demon List
 
 # Credits
 1.9 GDPS: [Special Thanks and Discord button](https://github.com/qimiko/gdps-android-public)\
