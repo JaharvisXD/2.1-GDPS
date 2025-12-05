@@ -17,7 +17,7 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 🍎 MacOS/IOS: *Coming soon...*
 
 # Others
-😈 Challenge List: https://github.com/JaharvisXD/2.1-GDPS-Challenge-List \
+😈 Challenge List: https://two1gdpscl.pages.dev/ \
 🎥 YouTube: https://www.youtube.com/@2p1GDPS/ \
 🏠 GDPSHub: https://gdpshub.com/gdps/1898 \
 👥 Discord: https://discord.com/invite/N8MX2mZKCF \
