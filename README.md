@@ -12,7 +12,6 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 
 # Downloads
 🪟 [Windows](https://www.mediafire.com/file/8orjib06kfk6ci6/2.1_GDPS_Installer.exe/file)\
-🪟 [Windows (Zip File)](https://www.mediafire.com/file/pc2apvao4bx2qic/2.1_GDPS_Windows.zip/file) (Use Wine if youre a linux user)\
 🤖 [Android](https://www.mediafire.com/file/i99zb2e7goqf7q3/2.1_GDPS_Android.apk/file)\
 🍎 MacOS/IOS: *Coming soon...*
 
