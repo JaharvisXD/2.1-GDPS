@@ -40,7 +40,7 @@ Rain
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/280575e4-ec0e-457c-a0ee-2301987199a4" /> \
 Elch1s
 
-<img width="128" height="133" alt="image" src="https://github.com/user-attachments/assets/d035a4b3-4244-4249-9722-5dedad95dccd" /> \
+<img width="64" height="67" alt="image" src="https://github.com/user-attachments/assets/d035a4b3-4244-4249-9722-5dedad95dccd" /> \
 Tiger8
 
 # Credits
