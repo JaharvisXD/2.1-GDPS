@@ -30,11 +30,11 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 # The 2.1 GDPS Team:
 <img width="64" height="64" alt="cube_101" src="https://github.com/user-attachments/assets/4f857d59-92ac-4db3-896d-222d3534b6ec" />
 
-# NotJarvis
+NotJarvis
 
 <img width="64" height="68" alt="cube_483" src="https://github.com/user-attachments/assets/555c3ba1-6ef6-4106-861a-08c3eeb4ee5d" />
 
-# ChepsGames
+ChepsGames
 
 # Credits
 1.9 GDPS: [Special Thanks and Discord button](https://github.com/qimiko/gdps-android-public)\
