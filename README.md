@@ -1,7 +1,7 @@
 ![image Alt](https://github.com/JaharvisXD/2.1-GDPS/blob/main/gdpslogo.png)
 
 A Geometry Dash Private Server that is only based on the most famous, old and played version, Update 2.1!
-### The Best 2.1 GDPS of 2024
+## The Best 2.1 GDPS of 2024
 
 ![image Alt](https://github.com/JaharvisXD/2.1-GDPS/blob/main/image.png?raw=true)
 
@@ -13,7 +13,7 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 # Downloads
 🪟 [Windows](https://www.mediafire.com/file/8orjib06kfk6ci6/2.1_GDPS_Installer.exe/file)\
 🤖 [Android](https://www.mediafire.com/file/i99zb2e7goqf7q3/2.1_GDPS_Android.apk/file)\
-🍎 MacOS/IOS: *Coming soon...*
+🍎 MacOS: *Coming soon...*
 
 # Others
 😈 Challenge List: https://two1gdpscl.pages.dev/ \
@@ -26,6 +26,10 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 - Custom Main Levels
 - MacOS/IOS Support
 - Official Safe Hacks Mod Menu
+
+# The 2.1 GDPS Team:
+<img width="128" height="128" alt="cube_101" src="https://github.com/user-attachments/assets/4f857d59-92ac-4db3-896d-222d3534b6ec" /> NotJarvis \
+<img width="134" height="143" alt="cube_483" src="https://github.com/user-attachments/assets/555c3ba1-6ef6-4106-861a-08c3eeb4ee5d" /> ChepsGames \
 
 # Credits
 1.9 GDPS: [Special Thanks and Discord button](https://github.com/qimiko/gdps-android-public)\
