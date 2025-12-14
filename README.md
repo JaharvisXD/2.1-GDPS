@@ -28,20 +28,20 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 - Official Safe Hacks Mod Menu
 
 # The 2.1 GDPS Team:
-<img width="64" height="64" alt="cube_101" src="https://github.com/user-attachments/assets/4f857d59-92ac-4db3-896d-222d3534b6ec" />
+<img width="64" height="64" alt="cube_101" src="https://github.com/user-attachments/assets/4f857d59-92ac-4db3-896d-222d3534b6ec" /> \
 NotJarvis
 
-<img width="64" height="68" alt="cube_483" src="https://github.com/user-attachments/assets/555c3ba1-6ef6-4106-861a-08c3eeb4ee5d" />
+<img width="64" height="68" alt="cube_483" src="https://github.com/user-attachments/assets/555c3ba1-6ef6-4106-861a-08c3eeb4ee5d" /> \
 ChepsGames
 
-<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/219f02ee-13e3-4e52-8a1c-31d379f91e7c" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/219f02ee-13e3-4e52-8a1c-31d379f91e7c" /> \
 Rain
 
-<img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/280575e4-ec0e-457c-a0ee-2301987199a4" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/280575e4-ec0e-457c-a0ee-2301987199a4" /> \
 Elch1s
 
-
-
+<img width="128" height="133" alt="image" src="https://github.com/user-attachments/assets/d035a4b3-4244-4249-9722-5dedad95dccd" /> \
+Tiger8
 
 # Credits
 1.9 GDPS: [Special Thanks and Discord button](https://github.com/qimiko/gdps-android-public)\
