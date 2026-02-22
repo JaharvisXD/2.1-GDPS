@@ -39,7 +39,7 @@ ChepsGames (Co-Owner)
 Elch1s (Senior Mod)
 
 <img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/219f02ee-13e3-4e52-8a1c-31d379f91e7c" /> \
-Rain (Moderator)
+Rain (Senior Mod)
 
 <img width="64" height="67" alt="image" src="https://github.com/user-attachments/assets/d035a4b3-4244-4249-9722-5dedad95dccd" /> \
 Tiger8 (Moderator)
