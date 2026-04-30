@@ -7,7 +7,7 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 
 # Websites
 🌐 Main: https://two1gdps.ps.fhgdps.com/ \
-😈 Demon List: https://two1gdpsdl.pages.dev/ \
+😈 Demon List: https://two1gdpsdl.page.gd/ \
 🛠️ Dashboard and tools: https://two1gdps.ps.fhgdps.com/dashboard/
 
 # Downloads
