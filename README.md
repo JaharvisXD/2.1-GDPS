@@ -17,6 +17,7 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 🍎 MacOS: *Coming soon...*
 
 # Others
+🎮 Launcher Source Code: https://github.com/JaharvisXD/2.1-GDPS-Launcher \
 😈 Challenge List: https://two1gdpscl.pages.dev/ \
 🎥 YouTube: https://www.youtube.com/@2p1GDPS/ \
 🏠 GDPSHub: https://gdpshub.com/gdps/1898 \
