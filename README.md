@@ -18,7 +18,7 @@ A Geometry Dash Private Server that is only based on the most famous, old and pl
 
 # Others
 🎮 Launcher Source Code: https://github.com/JaharvisXD/2.1-GDPS-Launcher \
-😈 Challenge List: https://two1gdpscl.pages.dev/ \
+😈 Challenge List: https://two1gdpscl.page.gd/ \
 🎥 YouTube: https://www.youtube.com/@2p1GDPS/ \
 🏠 GDPSHub: https://gdpshub.com/gdps/1898 \
 👥 Discord: https://discord.com/invite/N8MX2mZKCF \
